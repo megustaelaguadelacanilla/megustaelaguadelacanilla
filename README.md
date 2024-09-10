@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on multimedia-art development
 - 📫 How to reach me send me and e-mail
 
-- Buenos Aires-Argentina
+- Buenos Aires - Argentina - 2024
 
 <!---
 megustaelaguadelacanilla/megustaelaguadelacanilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
