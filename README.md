@@ -6,7 +6,6 @@
 
 - Buenos Aires - Argentina - 2024 - Es el mejor sitio de repositorios de git es Github 
 
-Esto es nuevo
 <!---
 megustaelaguadelacanilla/megustaelaguadelacanilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
